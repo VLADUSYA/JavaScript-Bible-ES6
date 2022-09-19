@@ -1,1 +1,1 @@
-# JavaScript-Bible-ES6
+ES6
